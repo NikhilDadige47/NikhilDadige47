@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Software_Developer-1E232A?style=flat-square&logo=codeforces&logoColor=white" alt="Role" />
 </h3>
 
-> *Building scalable intelligent systems, multi-agent workflows, and production-grade AI backends.*
+> *Building and Exploring Intelligent AI Applications with AI Agents, RAG Pipelines, and LLMOps.*
 
 <h2>
   <img src="https://cdn.simpleicons.org/stackshare/38BDF8" width="20" height="20" alt="Tech Stack" />
