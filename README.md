@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Software_Developer-009688?style=flat-square" alt="Role" />
 </h3>
 
-> *Building scalable intelligent systems, multi-agent workflows, and production-grade AI backends.*
+> *Building and Learning Intelligent AI Applications across AI Agents, Rag Pipelines and LLMOps .*
 
 ---
 
