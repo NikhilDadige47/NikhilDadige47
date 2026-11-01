@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Software_Developer-009688?style=flat-square" alt="Role" />
 </h3>
 
-> *Building and Learning Intelligent AI Applications across AI Agents, Rag Pipelines and LLMOps .*
+> *Building and Exploring Intelligent AI Applications with AI Agents, RAG Pipelines, and LLMOps*
 
 ---
 
