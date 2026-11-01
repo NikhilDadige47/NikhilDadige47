@@ -1,58 +1,62 @@
-# Hi, I'm Nikhil 👋
+<h1 align="left">
+  Hi, I'm Nikhil 👋
+</h1>
 
-### ⚡ Applied AI Engineer & Software Developer
+<h3>
+  <img src="https://img.shields.io/badge/-Applied_AI_Engineer-3776AB?style=flat-square&logo=python&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/-Software_Developer-009688?style=flat-square" alt="Role" />
+</h3>
 
 > *Building scalable intelligent systems, multi-agent workflows, and production-grade AI backends.*
 
 ---
 
-## 🛠️ Technical Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **AI & Agents** | Python • LangGraph • LangChain • Multi-Route RAG • Vector DBs (Qdrant) |
-| **Backend** | Python • FastAPI • REST APIs • Microservices |
-| **Databases** | PostgreSQL • pgvector • Redis • MongoDB • DuckDB |
-| **Cloud & DevOps** | Docker • AWS • Git • GitHub Actions • CI/CD |
-
-
-### 🧰 Technologies & Tools
+<h2>
+  <img src="https://cdn.simpleicons.org/stackshare/1E88E5" width="20" height="20" alt="Tech Stack" />
+  Core Tech Stack
+</h2>
 
 <p align="left">
-  <!-- Languages & AI Frameworks -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <br />
-  <!-- Databases & Cloud CI/CD -->
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
----
-
-## 💼 Experience & Core Focus
-
-- **🤖 Agentic Workflows & Intelligent Systems**
-  Built low-latency multi-route RAG pipelines, autonomous tool-calling agents, and structured Text-to-SQL copilots for production environments.
-
-- **⚡ High-Performance Backend Engineering**
-  Architected scalable microservices, concurrent APIs, and vector search systems leveraging **Python, Rust, Redis,** and **PostgreSQL**.
-
-- **📊 Full-Stack Data & AI Interfaces**
-  Designed high-throughput chat-to-chart data visualization widgets and modern web applications using **Angular** and **TypeScript**.
-
-## 🔬 Currently Exploring
-
-- [x] Multi-agent orchestration architectures & graph-based state management (LangGraph)
-- [x] LLM evaluation frameworks, observability, and latency optimization
-- [x] Distributed AI backends & edge vector retrieval strategies
+* **AI & Agents:** Python • LangGraph • LangChain • Multi-Route RAG • Qdrant
+* **Backend & DB:** Rust • FastAPI • PostgreSQL (pgvector) • Redis • Microservices
+* **Frontend & UI:** Angular • TypeScript • AI-Accelerated UI Engineering & Prototyping
 
 ---
 
-## 📬 Connect & Collaborate
+<h2>
+  <img src="https://cdn.simpleicons.org/gitbook/3884FF" width="20" height="20" alt="Experience" />
+  Core Focus & Experience
+</h2>
+
+* **Agentic Systems:** Built production multi-route RAG, tool-calling agents & Text-to-SQL copilots.
+* **Scalable Backends:** Architected low-latency concurrent APIs & vector search using Python, Rust & Redis.
+* **AI Interfaces:** Engineered full-stack web apps & real-time data visualization widgets in Angular.
+
+---
+
+<h2>
+  <img src="https://cdn.simpleicons.org/target/E50914" width="20" height="20" alt="Exploring" />
+  Currently Exploring
+</h2>
+
+* **Multi-Agent Systems:** Graph state management (LangGraph) & emerging Agent SDKs.
+* **LLM Observability:** Evaluation frameworks, trace logging & latency optimization.
+
+---
+
+<h2>
+  <img src="https://cdn.simpleicons.org/maildotru" width="20" height="20" alt="Connect" />
+  Connect & Collaborate
+</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nikhil-dadige/" target="_blank">
